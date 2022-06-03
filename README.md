@@ -1,3 +1,3 @@
 # hello-world
 Used to go through the github tutorial
-Just writing some stuff to go through the tutorial. Blah di da.
+This time I DELETED some text and replaced it with this sentence. Rah di da.
